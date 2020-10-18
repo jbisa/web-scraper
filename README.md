@@ -20,3 +20,5 @@ Next, run the script:
 ```
 python3 WebScraper.py
 ```
+
+Data that has been scraped will be shown in the terminal as well as in the CSV file in the `results` folder.
