@@ -1,6 +1,6 @@
 # Web Scraper
 
-The `WebScraper.py` script can be used to hit a URL (configurable in the script), grab the HTML contents on the page using `BeautifulSoup` and then parsing the contents for data points that you care about. The data is then written into a CSV file for analysis and data storage purposes.
+The `WebScraper.py` script can be used to hit a URL (configurable in the script), grab the HTML contents on the page using `BeautifulSoup` and then parse the contents for data points that you care about. The data is then written into a CSV file for analysis and data storage purposes.
 
 ## Dependencies
 
